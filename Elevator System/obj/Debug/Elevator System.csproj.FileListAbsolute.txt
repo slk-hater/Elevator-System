@@ -1,0 +1,20 @@
+C:\Users\quatr\Desktop\Coding\C#\Elevator System\bin\Debug\Elevator System.exe.config
+C:\Users\quatr\Desktop\Coding\C#\Elevator System\bin\Debug\Elevator System.exe
+C:\Users\quatr\Desktop\Coding\C#\Elevator System\bin\Debug\Elevator System.pdb
+C:\Users\quatr\Desktop\Coding\C#\Elevator System\obj\Debug\Elevator_System.ElevatorForm.resources
+C:\Users\quatr\Desktop\Coding\C#\Elevator System\obj\Debug\Elevator_System.Properties.Resources.resources
+C:\Users\quatr\Desktop\Coding\C#\Elevator System\obj\Debug\Elevator System.csproj.GenerateResource.cache
+C:\Users\quatr\Desktop\Coding\C#\Elevator System\obj\Debug\Elevator System.csproj.CoreCompileInputs.cache
+C:\Users\quatr\Desktop\Coding\C#\Elevator System\obj\Debug\Elevator System.exe
+C:\Users\quatr\Desktop\Coding\C#\Elevator System\obj\Debug\Elevator System.pdb
+C:\Users\P74\Desktop\3841 Guilherme Fadário\Elevator System\bin\Debug\Elevator System.exe.config
+C:\Users\P74\Desktop\3841 Guilherme Fadário\Elevator System\bin\Debug\Elevator System.exe
+C:\Users\P74\Desktop\3841 Guilherme Fadário\Elevator System\bin\Debug\Elevator System.pdb
+C:\Users\P74\Desktop\3841 Guilherme Fadário\Elevator System\obj\Debug\Elevator System.csprojAssemblyReference.cache
+C:\Users\P74\Desktop\3841 Guilherme Fadário\Elevator System\obj\Debug\Elevator_System.Properties.Resources.resources
+C:\Users\P74\Desktop\3841 Guilherme Fadário\Elevator System\obj\Debug\Elevator System.csproj.GenerateResource.cache
+C:\Users\P74\Desktop\3841 Guilherme Fadário\Elevator System\obj\Debug\Elevator System.exe
+C:\Users\P74\Desktop\3841 Guilherme Fadário\Elevator System\obj\Debug\Elevator System.pdb
+C:\Users\P74\Desktop\3841 Guilherme Fadário\Elevator System\obj\Debug\Elevator_System.ElevatorForm.resources
+C:\Users\P74\Desktop\3841 Guilherme Fadário\Elevator System\obj\Debug\Elevator_System.StartupConfiguration.resources
+C:\Users\quatr\Desktop\Coding\C#\Elevator System\obj\Debug\Elevator_System.StartupConfiguration.resources
